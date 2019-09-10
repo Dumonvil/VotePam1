@@ -11,7 +11,7 @@
 Votepam is an app that lets people vote online, allows one person to vote once and then reduces fraud.
 
 ### App Evaluation
-- **Category:** Social 
+- **Category:** web portail 
 - **Mobile:** This application would be developed for mobile, web but could be just as viable on a computer.
 The feature would not be limited to mobile devices, but the mobile version could potentially have more
 features.
@@ -63,7 +63,13 @@ features.
 <img src="https://github.com/Dumonvil/VotePam/blob/master/wireframe.jpg" width=800><br>
 
 ### [BONUS] Digital Wireframes & Mockups
-
+<span> <img src="https://imgur.com/jJN0wDP.jpg" width=100><br>
+<img src="https://imgur.com/lgFd2MA.png" width=100><br>
+<img src="https://imgur.com/undefined.png" width=100><br>
+<img src="https://imgur.com/lEg4u54.png" width=100><br>
+<img src="https://imgur.com/khwck6F.png" width=100><br>
+<img src="https://imgur.com/U2Botdk".png" width=100><br>
+ </span>
 
 ### [BONUS] Interactive Prototype
 https://www.figma.com/file/lQhrESAOY3fIJCpWWGeDZP/Untitled?node-id=63%3A7
