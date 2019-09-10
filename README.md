@@ -63,7 +63,7 @@ features.
 <img src="https://github.com/Dumonvil/VotePam/blob/master/wireframe.jpg" width=800><br>
 
 ### [BONUS] Digital Wireframes & Mockups
-<img src="https://i.imgur.com/lYHn37F.jpg" height=200>
+
 
 ### [BONUS] Interactive Prototype
 <img src="https://github.com/Dumonvil/VotePam/blob/master/projetcodepath.gif" width=200>
