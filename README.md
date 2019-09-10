@@ -70,7 +70,6 @@ features.
 <img src="https://imgur.com/lEg4u54.png" width=100>
 <img src="https://imgur.com/khwck6F.png" width=100>
 <img src="https://imgur.com/U2Botdk.png" width=100>
-<img src="https://imgur.com/Qjc8NVH.png" witdth=100>
 <img src ="https://imgur.com/BYZ7uI3.png" width=100>
 <img src="https://imgur.com/4R1fmIv.png" width=100>
 <img src="https://imgur.com/w8QJf6g.png" width=100>
