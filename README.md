@@ -25,10 +25,10 @@ features.
 
 **Required Must-have Stories**
 
-* User can login with id
-* Used will be able to select a candidate he wants to vote
-* Users will be able to see all the information about it when logged in
-* Users will be able to see all the candidates it has voted for
+- [ ] User can login with id
+- [ ] Used will be able to select a candidate he wants to vote
+- [ ] Users will be able to see all the information about it when logged in
+- [ ] Users will be able to see all the candidates it has voted for
 
 **Optional Nice-to-have Stories**
 
