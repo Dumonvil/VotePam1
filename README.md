@@ -154,20 +154,19 @@ Model: Member of parliament
 
 ### Networking
 
-Login Screen
--(Read / GET) Query to connect with user id.
+* Login Screen
+   * (Read / GET) Query to connect with user id.
 
-Candidate selection screen
--(Read / GET) Query to display names and photos of candidates by categories.
+* Candidate selection screen
+   * (Read / GET) Query to display names and photos of candidates by categories.
 
-Profil Screen
--(Read/ GET) Query to display all the information about the user. His picture, his name and surname, his date of birth and his birthplace.
+* Profil Screen
+   * (Read/ GET) Query to display all the information about the user. His picture, his name and surname, his date of birth and his birthplace.
 
-Detail
--(Read / GET) Query to view the details of each candidate select before voting.
-
-Post-detail
--(Read / GET) Query to display all the candidates chosen by the user.
+* Detail
+   * (Read / GET) Query to view the details of each candidate select before voting.
+* Post-detail
+   * (Read / GET) Query to display all the candidates chosen by the user.
 
 
 
